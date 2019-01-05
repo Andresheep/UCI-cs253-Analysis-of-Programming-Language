@@ -1,0 +1,8 @@
+command for Fourteen.js:
+cd week5
+node Fourteen.js ../pride-and-prejudice.txt
+
+command for twentyfour.js:
+
+cd week5
+node twentyfour.js ../pride-and-prejudice.txt
