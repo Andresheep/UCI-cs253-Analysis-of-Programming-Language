@@ -1,0 +1,7 @@
+seventeen.js:
+cd week7
+node seventeen.js ../pride-and-prejudice.txt
+
+nineteen.js:
+//u can change the plugins in config.ini
+node nineteen.js ../pride-and-prejudice.txt
