@@ -1,0 +1,4 @@
+cd week6
+
+node twenty-six.js ../pride-and-prejudice.txt
+node twenty-seven.js ../pride-and-prejudice.txt
